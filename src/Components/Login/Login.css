@@ -1,0 +1,30 @@
+.LoginDiv {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  padding-top: 5rem;
+  font-size: calc(10px + 2vmin);
+  background-color: beige;
+}
+
+.LoginFormTitle  {
+    padding-bottom: 2rem;
+}
+
+.LoginInput {
+    margin-top: 1.5rem;
+}
+
+.LoginButton {
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.LoginFooter {
+    font-size: 10px;
+    display: block;
+}
+
+
